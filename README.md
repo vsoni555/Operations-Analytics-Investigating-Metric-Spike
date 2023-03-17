@@ -15,13 +15,13 @@ ds: date in the yyyy/mm/dd format. It is stored in the form of text and we use p
 
 You are required to provide a detailed report for the below two operations mentioning the answers for the related questions:
 
-Number of jobs reviewed: Amount of jobs reviewed over time.
+1.Number of jobs reviewed: Amount of jobs reviewed over time.
 Task: Calculate the number of jobs reviewed per hour per day for November 2020?
-Throughput: It is the no. of events happening per second.
+2.Throughput: It is the no. of events happening per second.
 Task: Let’s say the above metric is called throughput. Calculate 7 day rolling average of throughput? For throughput, do you prefer daily metric or 7-day rolling and why?
-Percentage share of each language: Share of each language for different contents.
+3.Percentage share of each language: Share of each language for different contents.
 Task: Calculate the percentage share of each language in the last 30 days?
-Duplicate rows: Rows that have the same value present in them.
+4.Duplicate rows: Rows that have the same value present in them.
 Your task: Let’s say you see some duplicate rows in the data. How will you display duplicates from the table?
 
 Case Study 2 (Investigating metric spike)
@@ -35,13 +35,13 @@ This table contains events specific to the sending of emails. It is similar in s
 
 You are required to provide a detailed report for the below two operations mentioning the answers for the related questions:
 
-User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
+1.User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
 Task: Calculate the weekly user engagement?
-User Growth: Amount of users growing over time for a product.
+2.User Growth: Amount of users growing over time for a product.
 Task: Calculate the user growth for product?
-Weekly Retention: Users getting retained weekly after signing-up for a product.
+3.Weekly Retention: Users getting retained weekly after signing-up for a product.
 Task: Calculate the weekly retention of users-sign up cohort?
-Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
+4.Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
 Task: Calculate the weekly engagement per device?
-Email Engagement: Users engaging with the email service.
+5.Email Engagement: Users engaging with the email service.
 Task: Calculate the email engagement metrics?
