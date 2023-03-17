@@ -1,8 +1,6 @@
 # Operations-Analytics-Investigating-Metric-Spike
  This case study is focused on carrying out in-depth analysis of operations of a company. Metric spike investigation is also an important part of operation analytics.
-Description:
-Operation Analytics is the analysis done for the complete end to end operations of a company. With the help of this, the company then finds the areas on which it must improve upon. You work closely with the ops team, support team, marketing team, etc and help them derive insights out of the data they collect.
-Investigating metric spike is also an important part of operation analytics as being a Data Analyst one must be able to understand or make other teams understand questions like- Why is there a dip in daily engagement? Why have sales taken a dip? Etc. Questions like these must be answered daily and for that its very important to investigate metric spike.
+
 
 Case Study 1 (Job Data)
 Below is the structure of the table with the definition of each column that you must work on:
